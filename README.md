@@ -1,2 +1,2 @@
 # SpringBootTutorial
-Sample SpringBoot Codes
+This repository contains sample SpringBoot codes
